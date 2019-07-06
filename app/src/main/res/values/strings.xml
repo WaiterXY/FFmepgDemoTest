@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FFmpegDemoTest</string>
+    <string name="demo_button_open_system_photo_file">System photo file</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="external_and_camera">external_and_camera</string>
+</resources>
